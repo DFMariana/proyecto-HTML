@@ -1,0 +1,33 @@
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Mi Primer Sitio Web</title>
+   </style>
+</head>
+<body>
+   <header>
+       <h1>Mi Primer Sitio Web</h1>
+   </header>
+   
+   <!-- Imagen -->
+   <img src="C:\Users\Maria\OneDrive\Desktop\Foto.jpeg">
+   
+   <!-- Lista -->
+   <ul>
+       <h3>Mi perro se llama</h3>
+       <p>Roco</p>
+       <ul>Le gusta comer</ul>
+       <li>Carnes crudas</li>
+       <li>Su actividad favorita</li> 
+       <p>Salir a correr</p>
+   </ul>
+   
+   <!-- Opciones -->
+   <div class="options">
+       <p>Opción 1</p>
+       <p>Opción 2</p>
+       <p>Opción 3</p>
+   </div>
+</body>
+</html>
+
